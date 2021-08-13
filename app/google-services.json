@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442599914490",
+    "project_id": "kotak-saran-ac8ae",
+    "storage_bucket": "kotak-saran-ac8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442599914490:android:c699550443553ec4654243",
+        "android_client_info": {
+          "package_name": "com.aspirasi.kotaksaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442599914490-bu8vf2elj6hltgq34e9l6ae9fkcv7ptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRvnNJKo2AryBMuW5jo_mVJwgcYlqT4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442599914490-bu8vf2elj6hltgq34e9l6ae9fkcv7ptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
